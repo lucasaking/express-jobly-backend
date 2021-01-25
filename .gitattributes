@@ -1,1 +1,2 @@
-.rb linguist-language=SQL
+*.html linguist-detectable=false
+*.sql linguist-detectable=true
